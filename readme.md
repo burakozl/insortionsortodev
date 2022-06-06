@@ -1,13 +1,13 @@
 # www.patika.dev Veri yapıları ve Algoritmalar eğitimi kapsamında hazırlamış olduğum ödev
 
 # A-1) Insertion Sort
-[22,27,16,2,18,6] -> start
-[2,27,16,22,18,6] -> step 1
-[2,6,16,22,18,27] -> step 2
-[2,6,16,18,22,27] -> step 3 End
+## [22,27,16,2,18,6] -> start
+## [2,27,16,22,18,6] -> step 1
+## [2,6,16,22,18,27] -> step 2
+## [2,6,16,18,22,27] -> step 3 End
 
 # A-2) Big O gösterimi 
-(n-1)+(n-2)+(n-3)+...+1 = (n(n-1))/2 =O(n^2) 
+## (n-1)+(n-2)+(n-3)+...+1 = (n(n-1))/2 =O(n^2) 
 # A-3) 
 ## Worst Case   : O(n^2)
 ## Average Case : O(n^2)
